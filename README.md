@@ -2,29 +2,29 @@
 The Survey Form project is a simple yet functional web-based form designed to collect customer information. The form includes fields for capturing customer name, address, and country details in an organized and user-friendly layout. The project is structured using HTML.
 
 # Technologies Used:
-HTML: For structuring the form elements.
+HTML
 
 
 # Sections:
 # Customer Name
-First Name (Required)
-Last Name (Required)
+1)First Name (Required)
+2)Last Name (Required)
 # Address
-Street Address (Line 1 & 2)
-City (Required)
-State (Required)
-ZIP Code (Required)
-Country (Dropdown Selection)
+1)Street Address (Line 1 & 2)
+2)City (Required)
+3)State (Required)
+4)ZIP Code (Required)
+5)Country (Dropdown Selection)
 # Contact
-Phone
-Email
+1)Phone
+2)Email
 # Ratings
-Rating1
-Rating2
-Rating3
-Rating4
-Rating5
-Rating6
+1)Rating1
+2)Rating2
+3)Rating3
+4)Rating4
+5)Rating5
+6)Rating6
 
 # Conclusion:
 The Survey Form project, built using HTML, serves as an interactive and user-friendly tool for collecting valuable user information. It is structured with well-defined sections such as personal details, address, country selection, and additional fields to ensure comprehensive data collection.
