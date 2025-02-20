@@ -7,23 +7,23 @@ HTML
 
 # Sections:
 # Customer Name
-1)First Name (Required)
+1)First Name (Required)//
 2)Last Name (Required)
 # Address
-1)Street Address (Line 1 & 2)
-2)City (Required)
-3)State (Required)
-4)ZIP Code (Required)
+1)Street Address (Line 1 & 2)//
+2)City (Required)//
+3)State (Required)//
+4)ZIP Code (Required)//
 5)Country (Dropdown Selection)
 # Contact
-1)Phone
+1)Phone//
 2)Email
 # Ratings
-1)Rating1
-2)Rating2
-3)Rating3
-4)Rating4
-5)Rating5
+1)Rating1//
+2)Rating2//
+3)Rating3//
+4)Rating4//
+5)Rating5//
 6)Rating6
 
 # Conclusion:
